@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49c2cdb5-d6ef-4456-ace3-6d4d24edfbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/CollectionsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Comparison/ComparisonsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Comparison/EmailComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Comparison/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/GenericLs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurency/DownloadStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurency/Downloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurency/GetPrecessInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/CompletableFuturesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/FlightService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/GetEmailFromIdandPlaylistFromEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/GetPriceAndExchangeRateThenComputeLocalCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/GetPriceQuotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/CompletableFutures/Quote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/ExecutorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/LongTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/ConsolePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/LambdasDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Reducers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/StreamsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionsPrc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/GenericsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Y1z2b02AgynxITNxGcJuFbNr4c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Collections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GetPriceQuotes">
+    <configuration name="CompletableFuturesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.CompletableFutures.CompletableFuturesDemo" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.CompletableFutures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.ExecutorsDemo" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetEmailFromIdandPlaylistFromEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.CompletableFutures.GetEmailFromIdandPlaylistFromEmail" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.CompletableFutures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPriceAndExchangeRateThenComputeLocalCurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.CompletableFutures.GetPriceAndExchangeRateThenComputeLocalCurrency" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.CompletableFutures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPriceQuotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.CompletableFutures.GetPriceQuotes" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.CompletableFutures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetPriceQuotes" />
+        <item itemvalue="Application.GetPriceAndExchangeRateThenComputeLocalCurrency" />
+        <item itemvalue="Application.GetEmailFromIdandPlaylistFromEmail" />
+        <item itemvalue="Application.CompletableFuturesDemo" />
+        <item itemvalue="Application.ExecutorsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c2cdb5-d6ef-4456-ace3-6d4d24edfbb9" name="Changes" comment="" />
+      <created>1699707675836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699707675836</updated>
+      <workItem from="1699707676796" duration="3195000" />
+      <workItem from="1699713581531" duration="19000" />
+      <workItem from="1699713614113" duration="388000" />
+      <workItem from="1699714015270" duration="5218000" />
+      <workItem from="1699858801781" duration="27075000" />
+      <workItem from="1700207867193" duration="1171000" />
+      <workItem from="1700457663771" duration="42000" />
+      <workItem from="1700457718547" duration="15174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
